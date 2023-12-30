@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring6_002_first" />
+        <module name="sping6_bean_init" />
         <module name="spring6_001_revelation" />
+        <module name="simple_factory" />
+        <module name="spring6_002_first" />
       </profile>
     </annotationProcessing>
   </component>
