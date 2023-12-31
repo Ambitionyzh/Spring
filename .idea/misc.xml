@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/simple_factory/pom.xml" />
         <option value="$PROJECT_DIR$/sping6_bean_init/pom.xml" />
         <option value="$PROJECT_DIR$/lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6_circle_dependency/pom.xml" />
       </list>
     </option>
   </component>
