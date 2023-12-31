@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/spring6_002_first/pom.xml" />
         <option value="$PROJECT_DIR$/simple_factory/pom.xml" />
         <option value="$PROJECT_DIR$/sping6_bean_init/pom.xml" />
+        <option value="$PROJECT_DIR$/lifecycle/pom.xml" />
       </list>
     </option>
   </component>
