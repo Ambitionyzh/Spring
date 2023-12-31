@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans >
+    <bean id="user" class="com.yongzh.myspring.bean.User">
+        <property name="name" value="张三"></property>
+        <property name="age" value="30"></property>
+    </bean>
+    <bean id="userService" class="com.yongzh.myspring.bean.UserService">
+        <property name="userDao" ref="userDao"></property>
+    </bean>
+    <bean id="userDao" class="com.yongzh.myspring.bean.UserDao"></bean>
+
+
+
+</beans>

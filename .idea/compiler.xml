@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lifecycle" />
         <module name="spring6_circle_dependency" />
-        <module name="sping6_bean_init" />
         <module name="spring6_001_revelation" />
+        <module name="myspring" />
+        <module name="sping6_bean_init" />
+        <module name="Java_reflect" />
         <module name="simple_factory" />
         <module name="spring6_002_first" />
       </profile>
