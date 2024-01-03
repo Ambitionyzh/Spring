@@ -9,9 +9,11 @@
         <module name="lifecycle" />
         <module name="spring6_circle_dependency" />
         <module name="spring6_001_revelation" />
+        <module name="spring6_ioc_annotation" />
         <module name="myspring" />
         <module name="sping6_bean_init" />
         <module name="Java_reflect" />
+        <module name="review_annotation" />
         <module name="simple_factory" />
         <module name="spring6_002_first" />
       </profile>

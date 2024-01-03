@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/spring6_circle_dependency/pom.xml" />
         <option value="$PROJECT_DIR$/Java_reflect/pom.xml" />
         <option value="$PROJECT_DIR$/myspring/pom.xml" />
+        <option value="$PROJECT_DIR$/review_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6_ioc_annotation/pom.xml" />
       </list>
     </option>
   </component>
