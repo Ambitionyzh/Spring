@@ -14,6 +14,7 @@
         <module name="sping6_bean_init" />
         <module name="Java_reflect" />
         <module name="review_annotation" />
+        <module name="static_proxy" />
         <module name="simple_factory" />
         <module name="spring6_002_first" />
       </profile>

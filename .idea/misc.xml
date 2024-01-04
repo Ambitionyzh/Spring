@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/myspring/pom.xml" />
         <option value="$PROJECT_DIR$/review_annotation/pom.xml" />
         <option value="$PROJECT_DIR$/spring6_ioc_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/static_proxy/pom.xml" />
       </list>
     </option>
   </component>
