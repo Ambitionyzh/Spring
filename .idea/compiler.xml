@@ -6,17 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lifecycle" />
         <module name="spring6_circle_dependency" />
+        <module name="Java_reflect" />
+        <module name="review_annotation" />
+        <module name="spring6_002_first" />
+        <module name="lifecycle" />
         <module name="spring6_001_revelation" />
         <module name="spring6_ioc_annotation" />
         <module name="myspring" />
         <module name="sping6_bean_init" />
-        <module name="Java_reflect" />
-        <module name="review_annotation" />
         <module name="static_proxy" />
         <module name="simple_factory" />
-        <module name="spring6_002_first" />
+        <module name="dynamic_proxy_jdk" />
+        <module name="dynamic_proxy_cglib" />
       </profile>
     </annotationProcessing>
   </component>
