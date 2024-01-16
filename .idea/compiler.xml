@@ -7,10 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring6_circle_dependency" />
+        <module name="spring6_aop" />
+        <module name="spring6-tx-bank" />
         <module name="Java_reflect" />
         <module name="review_annotation" />
         <module name="spring6_002_first" />
         <module name="lifecycle" />
+        <module name="spring6-aop-realapp" />
         <module name="spring6_001_revelation" />
         <module name="spring6_ioc_annotation" />
         <module name="myspring" />

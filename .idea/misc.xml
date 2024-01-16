@@ -17,6 +17,9 @@
         <option value="$PROJECT_DIR$/static_proxy/pom.xml" />
         <option value="$PROJECT_DIR$/dynamic_proxy_jdk/pom.xml" />
         <option value="$PROJECT_DIR$/dynamic_proxy_cglib/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-aop-realapp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring6-tx-bank/pom.xml" />
       </list>
     </option>
   </component>
